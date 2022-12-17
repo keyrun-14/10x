@@ -1,0 +1,49 @@
+*{
+    box-sizing: border-box;
+}
+h1{
+    color: blueviolet;
+}
+th{
+    color: rgb(250, 247, 244);
+    background-color: #009879;
+}
+
+th,td{
+    text-align: center;
+    padding: 12px 15px;
+    width: 20%;
+}
+td{
+    background-color: beige;
+    
+}
+td:hover{
+    color: rgb(250, 247, 244);
+    background-color: #009879;
+    
+
+}
+.row{
+    margin: 10px;
+}
+table{
+    
+    margin:0 100px;
+    width: 100%;
+    
+}
+h1{
+text-align: center;
+}
+a{
+    color: rgb(243, 247, 247);
+    border: 1px solid;
+    border-radius: 5px;
+    text-decoration: none;
+    background-color: rgb(65, 58, 115);
+    padding: 5px;
+}
+.addUser{
+    padding: 100px;
+}

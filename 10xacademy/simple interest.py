@@ -1,0 +1,5 @@
+P=int(input())
+T=int(input())
+R=int(input())
+I=int((P*T*R)/100)
+print(I)

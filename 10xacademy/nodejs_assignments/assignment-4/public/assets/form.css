@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+body{
+    background-color: rgb(59, 59, 179);
+}
+form{
+    padding: 1rem;
+    width:25%;
+    height: 20rem;
+    margin:10rem auto;
+    text-align: center;
+    background-color: white;
+    border-radius: 5%;
+}
+.input,h2{
+    margin: 10px;
+}
+.input:first-child,h2{
+    margin-top: 20%;
+}
+input{
+    height: 4vh;
+    width: 100%;
+}
+label{
+    font-weight: 900;
+}
+button{
+    background-color: rgb(86, 86, 246);
+    color: white;
+    width: 10rem;
+    height: 4vh;
+    border-radius: 1rem;
+}

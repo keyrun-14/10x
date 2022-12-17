@@ -1,0 +1,8 @@
+let a = 10;
+console.log(a+50);
+
+let b = '20';
+console.log(b+30) // expecting 20+30 = 50
+//checks what is the type of b?
+//'20'+ 30 = 2030
+//'test'+'string' -> teststring

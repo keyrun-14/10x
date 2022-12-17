@@ -1,0 +1,93 @@
+Dear Candidate, 
+
+Please find the attached JD for the role of Python debveloper || Bangalore
+
+Kindly Read and acknowledge the mail.
+
+Note: Angular questions are based on javascript farme work (only 4) either you can learn the basic or you can concentrate much on other question. 
+
+PRINCIPLE JOB RESPONSIBILITIES:
+
+
+*         Familiarity with Agile development methodologies
+
+*         Knowledge with software design and development in a test-driven environment
+
+  *   Skilled in common front end languages such as CSS, HTML, and JavaScript
+  *   Proficiency with JavaScript frameworks such as React, AngularJS, and Node.js
+  *   Proficiency with server-side languages such as C++, Python, Java
+  *   Proficiency with database technology such as MS SQL Server, MySQL, MongoDB and Object-Relational Mapping (ORM) frameworks (ex: Hibernate)
+
+*         Knowledge with DevOps, GIT, Jira or Bugzilla
+
+*         Learn and understand the product well.
+
+*         Understand the requirements by going through the specifications to participate efficiently in the development and testing phases of the project.
+
+*         Develop and conduct self and peer code review.
+
+*         Deliver high quality work as defined by error-free / accurate deliverables that meets requirements, confirmation to internal quality guidelines for software processes and guidelines, solutions that require minimal maintenance etc.
+
+*         Writing Unit test cases for relevant development.
+
+*         Flexible and open to learning new technologies as per business requirement.
+
+  *   Strong verbal communication skills
+  *   Excellent problem-solving skills
+
+*         0-2 years of experience in relevant technology and industry
+
+Selection Process:
+
+Online assessment:
+As part of the selection process, the shortlisted profiles will be administered the following online assessments as per the details below. Candidates have to first clear the MEAN Stack assessment and then the Python Assessment will be administered.
+
+Candidates who have cleared both the assessments will be put through the interviews for the closure.
+
+Please note that the online assessment links will be shared to the candidate's email ID. Candidates have to perform well in the online assessments to qualify for the next round of selection process.
+
+---------------------------------------------------------------------------------
+MEAN Stack test:
+Duration: 90 minutes
+---------------------------------------------------------------------------------
+MEAN Stack Skill                   Category                    No. of questions
+
+Hands on Programming                Coding                           2
+DB Query                           SQL Query                         1
+Front End Technologies                MCQ                            4
+Javascript framework                  MCQ                            4
+Server Side                           MCQ                            5
+DB Concepts                           MCQ                            4
+Framework                             MCQ                            3
+Technical skills                      MCQ                            5
+Testing concepts                      MCQ                            3
+
+                                                              Total 31
+---------------------------------------------------------------------------------
+Python Test:
+Test Duration: 60 minutes
+---------------------------------------------------------------------------------
+Python Skill                        Category                   No. of questions
+
+Python                               Coding                          2
+GIT Basics                            MCQ                            4
+Python Basics                         MCQ                           14
+
+                                                              Total 20
+---------------------------------------------------------------------------------
+Please provide these instructions to the test takers:
+-Enable the webcam during the test
+-Ensure adequate network and power connectivity during the test
+-Test takers should not toggle between the windows during the test (if they do they will be exited from the test)
+-Test takers should ensure not to refer books/ material and seek assistance from additional person during the test.
+
+
+
+Nagaraj | Manager - HR
+ZeOmega | Population Health Management Solutions
+
+[2-NEW-ZeOmega-Logo-no-tagline-Registered]
+Office: +91-80-42432000
+VC | South End Road | Basavanagudi, Bengaluru - 560004 India
+www.ZeOmega.com<http://www.zeomega.com/>
+---------------------------------DONE BY KIRAN-----------------------------------

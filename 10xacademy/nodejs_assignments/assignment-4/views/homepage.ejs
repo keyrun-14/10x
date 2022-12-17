@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="/assets/homepage.css" type="text/css" />
+    <title>Document</title>
+  </head>
+
+  <body>
+    <div class="header">
+      <h1>Assignment-4</h1>
+    </div>
+    <div class="details">
+      <% for(let person of user)
+      {%> <% if(person.isPromoted === null ){%>
+      <div class="person-details1">
+        <h1><%=person.name%></h1>
+        <p><%=person.email%></p>
+      </div>
+      <%}%> <% if(person.isPromoted === true ){%>
+      <div class="person-details2">
+        <h1><%=person.name%></h1>
+        <p><%=person.email%></p>
+      </div>
+      <%}%> <% if(person.isPromoted === false ){%>
+      <div class="person-details3">
+        <h1><%=person.name%></h1>
+        <p><%=person.email%></p>
+      </div>
+      <%}%>
+
+      <div class="form-buttons">
+        <form method="POST" action="/form/<%= person._id %>?_method=PUT">
+          <button class="promoted" id="edit-<%= person.name %>" type="submit">
+            Promoted/Demoted
+          </button>
+        </form>
+
+        <form method="POST" action="/form/<%= person._id %>?_method=DELETE">
+          <button class="delete" id="delete-<%= person.name %>">Delete</button>
+        </form>
+      </div>
+      <%}%>
+    </div>
+    <div class="anchor-tag"><a href="/form">add user</a></div>
+  </body>
+</html>

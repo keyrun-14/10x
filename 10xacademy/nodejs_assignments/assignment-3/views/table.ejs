@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href= "/assets/table.css" rel="stylesheet" type="text/css" />
+    <title>Dummy Users</title>
+</head>
+<body>
+    <h1>Dummy Users</h1>
+    <div>
+        <table>
+            <tr class="row">
+                <th>Name</th>
+                <th>Email</th>
+                <th>Age</th>
+                <th>City</th>
+                <th>Profession</th>
+            </tr>
+        </table>
+    </div>
+    <div>
+        <% for(let users of user) {%>
+            <table>
+                <tr>
+                    <td><%=users.Name%></td>
+                    <td><%=users.Email%></td>
+                    <td><%=users.Age%></td>
+                    <td><%=users.City%></td>
+                    <td><%=users.Profession%></td>
+                </tr>
+            </table>
+            <% }%>
+    </div>
+    <div class="addUser">
+        <a href="http://localhost:5000/form">Add User</a>
+
+    </div>
+        
+    
+    
+    
+</body>
+</html>
